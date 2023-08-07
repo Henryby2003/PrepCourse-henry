@@ -1,2 +1,1 @@
-# p
-es un repositorio de prueba m2 
+prueba de como crear un repositorio y clonarlo desdde github a mi compu
